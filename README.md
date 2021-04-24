@@ -4,7 +4,9 @@
 
 I really love coding, hacking and Free Software (free as in freedom). If you want to know more about me check out my [Website](https://noahvogt.com).
 
-Skills: POSIX Shell / Bash / Python / Java / PHP / C / C++ / TeX / troff / HTML / CSS / JavaScript / TIBasic / Batch
+Skills: POSIX Shell / Bash / Python / Java / AWK / PHP / C / C++ / TeX / troff / HTML / CSS / JavaScript / SQL / TIBasic / Scratch / Batch / Regex
+
+(If you find out that I forgot a Skill/Language - how could I - please contact me asap)
 
 - 🌱 I’m currently learning Android Development 
 - 📫 How to reach me: [my contact page](https://noahvogt.com/contact) 
