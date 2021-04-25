@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Noah Vogt
 #### I am just a developer
-![I am just a developer](https://www.memeatlas.com/images/pepes/pepe-computer-screen-bright.png)
+
+<img src="https://noahvogt.com/200.png" alt="noah vogt" style="display: block; margin: auto; width: 50%;">
+
 
 I really love coding, hacking and Free Software (free as in freedom). If you want to know more about me check out my [Website](https://noahvogt.com).
 
