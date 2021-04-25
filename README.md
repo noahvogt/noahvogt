@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Noah Vogt
 #### I am just a developer
 
-<img src="https://noahvogt.com/200.png" alt="noah vogt" style="display: block; margin: auto; width: 50%;">
-
-
 I really love coding, hacking and Free Software (free as in freedom). If you want to know more about me check out my [Website](https://noahvogt.com).
 
 Skills: POSIX Shell / Bash / Python / Java / AWK / PHP / C / C++ / TeX / troff / HTML / CSS / JavaScript / SQL / TIBasic / Scratch / Batch / Regex
