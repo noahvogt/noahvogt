@@ -6,7 +6,7 @@
         .:######################:.           OS: human, male
      .:############################:.        Website: "https://noahvogt.com"
    .:#####´`³################³´`####:.       Uptime: 18 years +
-  .#######.   `´´        ``´   .#######.     Packages: 31 (github)
+  .#######.   `´´        ``´   .#######.     Packages: 33 (github)
  .########:                    :########.
 .########´                      `########.   Allrounder Skills: Python / Java / C / C++
 :########                        ########:   Unix Skills: POSIX Shell / Bash / AWK / Regex
@@ -27,7 +27,7 @@ I really love coding, hacking, optimizing and automating stuff. If you want to k
 #### Current Status
 
 - 🌱 I’m currently learning Android Development
-- 🔭 I’m currently working on an Android App
+- 🔭 I’m currently working on an [Android App](https://github.com/noahvogt/mini-project)
 - 📫 How to reach me: [my contact page](https://noahvogt.com/contact) 
 - ✨ Also check out my [articles](https://noahvogt.com/articles)
 
