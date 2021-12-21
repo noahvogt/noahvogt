@@ -6,7 +6,7 @@
         .:######################:.           OS: human, male
      .:############################:.        Website: "https://noahvogt.com"
    .:#####´`³################³´`####:.       Uptime: 18 years +
-  .#######.   `´´        ``´   .#######.     Packages: 45 (github), 8 (aur)
+  .#######.   `´´        ``´   .#######.     Packages: 48 (github), 9 (aur)
  .########:                    :########.
 .########´                      `########.   Allrounder Skills: Python / Java / C / C++
 :########                        ########:   Unix Skills: POSIX Shell / Bash / AWK / Regex
@@ -24,6 +24,7 @@
 
 I really love coding, hacking, optimizing and automating stuff. If you want to know more about me check out my [website](https://noahvogt.com).
 
+<!--
 #### Current Status
 
 - 🌱 I’m currently learning Android Development
@@ -31,7 +32,7 @@ I really love coding, hacking, optimizing and automating stuff. If you want to k
 - 📫 How to reach me: [my contact page](https://noahvogt.com/contact) 
 - ✨ Also check out my [articles](https://noahvogt.com/articles)
 
-<!--
+
 **noahvogt/noahvogt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
