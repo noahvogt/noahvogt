@@ -22,7 +22,7 @@
 ```
 #### About Me
 
-I really love coding, hacking, optimizing and automating stuff. If you want to know more about me check out my [website](https://noahvogt.com).
+If you want to know more about me check out my [website](https://noahvogt.com).
 
 <!--
 #### Current Status
