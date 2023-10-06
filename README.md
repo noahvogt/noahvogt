@@ -6,7 +6,7 @@
         .:######################:.           OS: human, male
      .:############################:.        Website: "https://noahvogt.com"
    .:#####´`³################³´`####:.       Uptime: 18 years +
-  .#######.   `´´        ``´   .#######.     Packages: 54 (github), 23 (aur)
+  .#######.   `´´        ``´   .#######.     Packages: 97 (github), 29 (aur)
  .########:                    :########.
 .########´                      `########.   Allrounder Skills: Python / Java / C / C++
 :########                        ########:   Unix Skills: POSIX Shell / Bash / AWK / Regex
